@@ -1,0 +1,30 @@
+getter and setter are used to make sure the other classes can use the varible of other when they are private 
+
+and  aslo making varible and functions by keeping private to not to collide each other is called encapsulation 
+
+**
+stright answer  if the methods are public and the varibles are private that is encapsulation  
+
+****
+make sure that the class which is public that should be the file name  but it doesn't  mean
+that it have main function , you can create other class with out public and add a main class init
+
+file name is carowner.java
+public class  carowner{
+
+    private int age;
+    private String name;
+}
+class  cardelear{
+
+    public static void main(String[] args)
+    {
+
+       
+
+
+    }
+}
+
+
+
